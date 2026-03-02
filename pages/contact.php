@@ -13,4 +13,4 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     echo "<p>Merci " . htmlspecialchars($_POST["nom"]);
 }
 ?>
-iugrjbiffesuifbseuf                                                ioutiyufuiyt
+iugrjbiffesuifbseuf           sdhibfsygfg                                     ioutiyufuiyt
