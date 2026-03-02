@@ -10,6 +10,6 @@
 
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-    echo "<p>Merci loulou " . htmlspecialchars($_POST["nom"]);
+    echo "<p>Merci " . htmlspecialchars($_POST["nom"]);
 }
 ?>
